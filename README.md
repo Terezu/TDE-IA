@@ -1,9 +1,8 @@
 # Steering Behaviors — Trabalho Prático
 
 Disciplina: Inteligência Artificial e Ilusão de Inteligência em Jogos (PUCPR)
-Professora: Marina de Lara
 
-**Equipe:** _(preencher com os nomes)_
+**Equipe:** Enzo Pradi, Marco Antônio, Tales Lima e Yasmin.
 
 Implementação de Steering Behaviors em Java sobre o template `SBCarsEngine`. Um único carro (`StudentCar`) troca de comportamento pelo teclado.
 
