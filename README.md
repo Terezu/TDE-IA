@@ -143,8 +143,6 @@ Rodamos uma simulação de 40 s por modo, sem janela, e medimos a quantidade de 
 
 Nesses testes, as três configurações deram resultados parecidos, porque o desvio já pede a força máxima quando detecta um obstáculo. Mesmo assim, mantivemos a prioridade e o desvio com peso maior, como garantia nos casos em que as forças se anulariam. O desvio máximo de ~60 px na Patrulha é o carro contornando o obstáculo que está sobre o caminho.
 
-**Observações visuais da equipe:** _(preencher depois de rodar: fluidez, se o carro treme, ajustes feitos)_
-
 ## Limitações conhecidas
 - **Bordas da tela:** quando o carro sai da tela, o motor o faz reaparecer do outro lado. No Flee e no Wander isso acontece às vezes.
 - **Arrive e obstáculos:** o Arrive sozinho não desvia de obstáculos, porque eles só são considerados nos modos 5, 7 e 8.
